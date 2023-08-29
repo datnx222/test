@@ -1,0 +1,344 @@
+{
+    "tab": [
+        {
+            "id": 1,
+            "name": "Women"
+        },
+        {
+            "id": 2,
+            "name": "Men"
+        },
+        {
+            "id": 3,
+            "name": "Kids"
+        }
+    ],
+    "contents": [
+        {
+            "tabId": 1,
+            "categories": [
+                {
+                    "name": "トップス",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 438914122016
+                        },
+                        {
+                            "name": "Tシャツ/カットソー",
+                            "collectionId": 438823125280
+                        },
+                        {
+                            "name": "シャツ/ブラウス",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "ニット",
+                            "collectionId": 438914023712
+                        },
+                        {
+                            "name": "スウェット",
+                            "collectionId": 438914122016
+                        },
+                        {
+                            "name": "パーカー",
+                            "collectionId": 438823125280
+                        },
+                        {
+                            "name": "インナー",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "その他",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                },
+                {
+                    "name": "ワンピース",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 438914122016
+                        },
+                        {
+                            "name": "ロング",
+                            "collectionId": 438823125280
+                        },
+                        {
+                            "name": "チュニック",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "ジャンパースカート",
+                            "collectionId": 438914023712
+                        },
+                        {
+                            "name": "その他",
+                            "collectionId": 438914122016
+                        }
+                    ]
+                },
+                {
+                    "name": "スカート",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 438823125280
+                        },
+                        {
+                            "name": "ロング",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "ミディアム",
+                            "collectionId": 438914023712
+                        },
+                        {
+                            "name": "ショート",
+                            "collectionId": 438914122016
+                        },
+                        {
+                            "name": "その他",
+                            "collectionId": 438823125280
+                        }
+                    ]
+                },
+                {
+                    "name": "パンツ",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "ショートパンツ",
+                            "collectionId": 438914023712
+                        },
+                        {
+                            "name": "デニム",
+                            "collectionId": 438914122016
+                        },
+                        {
+                            "name": "スキニー",
+                            "collectionId": 438823125280
+                        },
+                        {
+                            "name": "テーパード",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "イージーパンツ",
+                            "collectionId": 438914023712
+                        },
+                        {
+                            "name": "オールインワン/サロペット",
+                            "collectionId": 438914122016
+                        },
+                        {
+                            "name": "その他",
+                            "collectionId": 438823125280
+                        }
+                    ]
+                },
+                {
+                    "name": "アウター",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "dummy",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                },
+                {
+                    "name": "グッズ",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "dummy",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tabId": 2,
+            "categories": [
+                {
+                    "name": "トップス",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "dummy",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                },
+                {
+                    "name": "ワンピース",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "dummy",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                },
+                {
+                    "name": "スカート",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "dummy",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                },
+                {
+                    "name": "パンツ",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "dummy",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                },
+                {
+                    "name": "アウター",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "dummy",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                },
+                {
+                    "name": "グッズ",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "dummy",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tabId": 2,
+            "categories": [
+                {
+                    "name": "トップス",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "dummy",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                },
+                {
+                    "name": "パンツ",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "dummy",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                },
+                {
+                    "name": "アウター",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "dummy",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                },
+                {
+                    "name": "グッズ",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "dummy",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tabId": 3,
+            "categories": [
+                {
+                    "name": "ガールズ",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "dummy",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                },
+                {
+                    "name": "ボーイズ",
+                    "items": [
+                        {
+                            "name": "すべて",
+                            "collectionId": 445165502752
+                        },
+                        {
+                            "name": "dummy",
+                            "collectionId": 438914023712
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
